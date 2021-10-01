@@ -1,2 +1,2 @@
 # codeforces
-codeforce challenges
+codeforce challenge code
